@@ -1,4 +1,6 @@
-# Java Multithread: Paralelismo, Concorrência e múltiplas Threads com Java!
+# Java Multithread
+
+## Paralelismo, Concorrência e múltiplas Threads com Java!
 
 Códigos feitos para o curso de Multithreading com Java, no canal RinaldoDev do YouTube.
 
