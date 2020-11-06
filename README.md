@@ -12,5 +12,4 @@ Códigos feitos para o curso/playlist de Multithreading com Java, no canal Rinal
 * Twitter: https://twitter.com/rinaldodev
 * LinkedIn: https://www.linkedin.com/in/rinaldodev/
 * Facebook: https://www.facebook.com/rinaldodev/
-* GitHub: https://github.com/rinaldodev
 * Site: https://rinaldo.dev
